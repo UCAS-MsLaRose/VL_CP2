@@ -29,3 +29,4 @@ print(fruits)
 # character list, loot, passwords, randomization 
 
 # .clear .difference .copy .pop 
+print("testing")
