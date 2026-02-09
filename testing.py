@@ -1,4 +1,4 @@
-gsfdhbasdkfdbaskdjfbalksdfb
+variable = "gsfdhbasdkfdbaskdjfbalksdfb"
 
 
-asdfsadfasdfsadfsadfsdfasd
+another = "asdfsadfasdfsadfsadfsdfasd"
