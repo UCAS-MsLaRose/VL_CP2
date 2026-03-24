@@ -30,3 +30,6 @@ print(fruits)
 
 # .clear .difference .copy .pop 
 print("testing")
+
+def yellow():
+    pass
